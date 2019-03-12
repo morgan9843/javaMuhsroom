@@ -1,0 +1,49 @@
+Agaricus arvensis white smooth 8 20 yellow 6 15 dark brown almond-like
+Agaricus augustus white rough/fibrous 7 30 yellow 8 35 brown almond-like
+Agaricus benesii white smooth 6 10 red 6 13 pink fruity/spicy
+Agaricus bernardii white smooth 5 15 red 4 10 dark-brown briny
+Agaricus bisporus white rough/fibrous 3 16 red 2 8 purple-brown fruity/spicy
+Agaricus bitorquis white smooth 4 18 other 2 10 red-brown almond-like
+Agaricus campestris white smooth 4 11 other 2 6 pink almond-like
+Agaricus comtulus white smooth 2 5 yellow 3 4 dark brown almond-like
+Agaricus crocodilinus white cracks/warts 10 35 none 10 15 brown almond-like
+Agaricus diminutivus brown smooth 1 3 none 2 5 dark brown almond-like
+Agaricus haemorrhoidarius brown rough/fibrous 2.5 10 red 5 12.5 purple-brown indistinct/other
+Agaricus hondensis white smooth 6 15 yellow 7 20 brown phenolic
+Agaricus inapertus white smooth 3 15 yellow 1 4 dark-brown almond-like
+Agaricus lilaceps brown smooth 7 25 red 5 22 red-brown fruity/spicy
+Agaricus micromegethus white smooth 2 4 yellow 2.5 3 purple-brown almond-like
+Agaricus moelleri brown smooth 5 25 yellow 7 18 red-brown phenolic
+Agaricus nivescens white smooth 10 15 none 8 10 brown almond-like
+Agaricus purpurellus white smooth 4 4.5 yellow 3.5 7 discolored almond-like
+Agaricus semotus brown smooth 4 7 yellow 5 9 brown almond-like
+Agaricus silvicola white smooth 8 12 yellow 6 10 pink almond-like
+Agaricus subufescens brown smooth 8 25 none 6 15 red-brown almond-like
+Agaricus subrutilescens brown rough/fibrous 5 15 none 5 20 dark brown fruity/spicy
+Agaricus xanthoderma white smooth 6 15 yellow 5 12 brown phenolic
+Agrocybe acericola tan/yellow smooth 3 7 none 5 10 brown starchy
+Agrocybe dura white smooth 3 10 none 4 10 dark brown starchy
+Agrocybe erebia brown smooth 2.5 6 none 2 6 dark brown indistinct/other
+Agrocybe pediades tan/yellow smooth 1.5 3.5 none 2.5 4 red-brown mealy
+Agrocybe praecox white smooth 2 10 none 3 10 brown mealy
+Agrocybe putaminum tan/yellow smooth 3 10 other 2.5 8 dark brown indistinct/other
+Alboleptonia sericella var. lutescens white smooth 1 8 none 1.5 8.5 pink indistinct/other
+Amanita aprica tan/yellow cracks/warts 5 15 none 1.5 9 white indistinct/other
+Amanita augusta brown cracks/warts 3 15 red 4 15 discolored indistinct/other
+Amanita calyptratoides brown smooth 3 10 none 5 14 white indistinct/other
+Amanita calyptroderma tan/yellow smooth 8 25 none 7 25 discolored fruity/spicy
+Amanita farinosa gray powdery 2.5 7.5 none 3 8 white indistinct/other
+Amanita muscaria red cracks/warts 5 30 none 5 20 white indistinct/other
+Amanita ocreata white smooth 4 15 none 6 20 white indistinct/other
+Amanita pachycolea brown smooth 7 20 none 12 30 discolored indistinct/other
+Amanita pantherina brown cracks/warts 5 15 none 5 15 white indistinct/other
+Amanita phalloides tan/yellow smooth 4 16 none 5 18 discolored starchy
+Amanita porphyria gray rough/fibrous 3 12 none 5 18 discolored starchy
+Amanita rubescens flesh cracks/warts 4 20 red 7 20 discolored indistinct/other
+Amanita silvicola white rough/fibrous 5 12 none 5 12 white indistinct/other
+Amanita smithiana white cracks/warts 5 17 other 6 16 white indistinct/other
+Amanita velosa tan/yellow smooth 3 12 none 5 12 pink indistinct/other
+Ampulloclitocybe avellaneoalba brown smooth 5 20 none 5 18 white indistinct/other
+Ampulloclitocybe clavipes brown smooth 2 9 none 2 7 discolored sweet/candy-like
+Aphroditeola olida pink smooth 1 3.5 none 1 3 discolored sweet/candy-like
+Armillaria cepistipes brown smooth 4 15 none 4 10 red-brown indistinct/other
