@@ -30,15 +30,14 @@ public class compute {
         try {
             Scanner scan = null;
             scan = reset(scan, f);
-
             while (scan.hasNextLine()) {
                 String temp;
                 species++;
                 temp = scan.nextLine();
                 int cut = temp.indexOf(" ");
-                names.add(temp.substring(0, cut));
+                names.add(temp.substring(0, cut) + 
+                          temp.substring(cut, temp.substring(cut + 1).indexOf(" ") + cut + 1));
             }
-
         } catch (Exception ex) {
             ex.printStackTrace();
         }
